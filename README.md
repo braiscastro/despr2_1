@@ -23,6 +23,7 @@
 (./img/Captura 9.png)
 
 # 3.Comprobación básica
+
 (./img/Captura 10.png)
 
 (./img/Captura 11.png)
