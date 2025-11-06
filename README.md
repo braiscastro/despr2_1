@@ -2,7 +2,7 @@
 
 # 1.Creacion de la VM
 
-img/Captura 1.png
+[Captura 1](https://github.com/braiscastro/despr2_1/blob/main/img/Captura%201.png)
 
 (../img/Captura 2.png)
 
