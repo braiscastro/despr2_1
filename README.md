@@ -4,11 +4,11 @@
 
 ![Captura_1](./img/Captura 1.png)
 
-(./img/Captura 2.png)
+(../img/Captura 2.png)
 
 # 2.Preparacion del entorno 
 
-(./img/Captura 3.png)
+(../img/Captura 3.png)
 
 (./img/Captura 4.png)
 
