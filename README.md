@@ -2,7 +2,7 @@
 
 # 1.Creacion de la VM
 
-/despr2_1/img/Captura 1.png
+img/Captura 1.png
 
 (../img/Captura 2.png)
 
